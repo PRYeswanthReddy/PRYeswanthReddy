@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRYeswanthReddy
 - 👀 I’m interested in coding and devloping
-- 🌱 I’m currently learning cloud and devops
+- 🌱 I’m currently working on cloud and devops
 - 💞️ I’m looking to collaborate on cloud
 - 📫 How to reach me yeswanthreddy9999@gmail.com
 
